@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-16T17:26:53 IST" name="Default suite" finished-at="2026-02-16T17:27:06 IST" duration-ms="13077">
+    <groups>
+    </groups>
+    <test started-at="2026-02-16T17:26:53 IST" name="Default test" finished-at="2026-02-16T17:27:06 IST" duration-ms="13077">
+      <class name="testng.TestNg_withoutMaven">
+        <test-method signature="openYoutube()[pri:0, instance:testng.TestNg_withoutMaven@36fc695d]" started-at="2026-02-16T17:26:53 IST" name="openYoutube" finished-at="2026-02-16T17:27:00 IST" duration-ms="7313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openYoutube -->
+        <test-method signature="searchVideo()[pri:0, instance:testng.TestNg_withoutMaven@36fc695d]" started-at="2026-02-16T17:27:00 IST" name="searchVideo" finished-at="2026-02-16T17:27:06 IST" duration-ms="5690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchVideo -->
+      </class> <!-- testng.TestNg_withoutMaven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
